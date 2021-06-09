@@ -26,7 +26,10 @@
         "vlucas/phpdotenv": "^v2.6.7",
         "league/container": "^2.5.0",
         "symfony/finder": "^v3.4.47",
-        "2amigos/yii2-config-kit": "^2.0"
+        "2amigos/yii2-config-kit": "^2.0",
+        "nesbot/carbon": "^2.48",
+        "voku/portable-utf8": "^5.4",
+        "ramsey/uuid": "^4.1"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.14",
